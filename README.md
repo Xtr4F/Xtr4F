@@ -1,7 +1,7 @@
 👋 Hello World!
 
-· My name is Igor \n
-· I'm 15 y.o. \n
-· I'm from Russia
+  · My name is Igor  
+  · I'm 15 y.o.  
+  · I'm from Russia
 
 
