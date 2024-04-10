@@ -1,8 +1,11 @@
 👋 **Hello World!**
 
-  · My name is Igor  
-  · I'm 16 y.o.  
-  · I'm from Russia
+My name is Igor
+  
+//TO-DO: change to 17 08/16/2024.
+I'm 16 y.o.
+
+I'm from Russia
 
 
 contact me:
